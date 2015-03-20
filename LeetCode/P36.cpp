@@ -57,7 +57,7 @@ public:
 	}
 };
 
-vector<vector<char>> makeBoard(vector<string>& input)
+static vector<vector<char>> makeBoard(vector<string>& input)
 {
 	vector<vector<char>> result;
 
@@ -72,15 +72,15 @@ vector<vector<char>> makeBoard(vector<string>& input)
 	return result;
 }
 
-int main()
-{
-	vector<string> input = { ".87654321", "2........", "3........", "4........", "5........", "6........", "7........", "8........", "9........" };
-
-	auto board = makeBoard(input);
-	displayVector2(board);
-
-	Solution sl;
-	cout << sl.isValidSudoku(board) <<endl;
-
-	PAUSE;
-}
+//int main()
+//{
+//	vector<string> input = { ".87654321", "2........", "3........", "4........", "5........", "6........", "7........", "8........", "9........" };
+//
+//	auto board = makeBoard(input);
+//	displayVector2(board);
+//
+//	Solution sl;
+//	cout << sl.isValidSudoku(board) <<endl;
+//
+//	PAUSE;
+//}
