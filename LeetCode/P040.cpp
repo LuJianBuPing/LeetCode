@@ -1,7 +1,7 @@
 #include "LeetCode.h"
 
 class Solution {
-	
+
 	int target;
 	vector<vector<int>> result;
 	vector<int> candidates;
@@ -19,31 +19,33 @@ private:
 			return;
 		}
 
-		for (int i = pos; i < candidates.size();++i)
+		for (int i = pos; i < candidates.size(); ++i)
 		{
+			if (i>pos && candidates[i] == candidates[i - 1])
+				continue;
 			int value = candidates[i];
 			sol[n] = value;
-			findSol(n + 1, sum + value, i);
+			findSol(n + 1, sum + value, i+1);
 		}
 	}
 public:
-	vector<vector<int> > combinationSum(vector<int> &candidates, int target) {
+	vector<vector<int> > combinationSum2(vector<int> &candidates, int target) {
 		sort(candidates.begin(), candidates.end());
 		this->candidates = candidates;
 		this->target = target;
 
-		sol = new int[target/candidates[0]+1];
+		sol = new int[candidates.size()];
 		findSol(0, 0, 0);
 		return std::move(result);
 	}
 };
 
-int main()
-{
-	vector<int> tv = { 3, 8, 5 };
-
-	Solution sl;
-	displayVector2(sl.combinationSum(tv, 11));
-
-	PAUSE;
-}
+//int main()
+//{
+//	vector<int> tv = { 10, 1, 2, 7, 6, 1, 5 };
+//
+//	Solution sl;
+//	displayVector2(sl.combinationSum2(tv, 8));
+//
+//	PAUSE;
+//}

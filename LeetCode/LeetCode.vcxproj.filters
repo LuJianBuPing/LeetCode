@@ -15,21 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="P1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P2.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P3.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P4.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P5.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="heapsort.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -42,109 +27,157 @@
     <ClCompile Include="P171.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P6.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P7.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P8.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P9.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P10.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P11.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P12.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P13.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P14.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P15.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P16.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="P17.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="LeetCode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P19.cpp">
+    <ClCompile Include="P001.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P20.cpp">
+    <ClCompile Include="P002.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P21.cpp">
+    <ClCompile Include="P003.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P22.cpp">
+    <ClCompile Include="P004.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P23.cpp">
+    <ClCompile Include="P005.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P18.cpp">
+    <ClCompile Include="P006.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P24.cpp">
+    <ClCompile Include="P007.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P25.cpp">
+    <ClCompile Include="P008.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P26.cpp">
+    <ClCompile Include="P009.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P27.cpp">
+    <ClCompile Include="P010.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P28.cpp">
+    <ClCompile Include="P011.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P29.cpp">
+    <ClCompile Include="P012.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P30.cpp">
+    <ClCompile Include="P013.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P31.cpp">
+    <ClCompile Include="P014.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P32.cpp">
+    <ClCompile Include="P015.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P33.cpp">
+    <ClCompile Include="P016.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P34.cpp">
+    <ClCompile Include="P017.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P35.cpp">
+    <ClCompile Include="P018.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P36.cpp">
+    <ClCompile Include="P019.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P37.cpp">
+    <ClCompile Include="P020.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P38.cpp">
+    <ClCompile Include="P021.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P39.cpp">
+    <ClCompile Include="P022.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P023.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P024.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P025.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P026.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P027.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P028.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P029.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P030.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P031.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P032.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P033.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P034.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P035.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P036.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P037.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P038.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P039.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P040.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P041.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P042.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p043.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P044.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P045.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P046.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P047.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P048.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P049.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P050.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
