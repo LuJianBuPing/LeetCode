@@ -78,6 +78,9 @@
     <ClCompile Include="P015.cpp" />
     <ClCompile Include="P016.cpp" />
     <ClCompile Include="P056.cpp" />
+    <ClCompile Include="P057.cpp" />
+    <ClCompile Include="P058.cpp" />
+    <ClCompile Include="P059.cpp" />
     <ClCompile Include="P168.cpp" />
     <ClCompile Include="P017.cpp" />
     <ClCompile Include="P171.cpp" />
