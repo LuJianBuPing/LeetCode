@@ -37,12 +37,12 @@ public:
 	}
 };
 
-int main()
-{
-	Solution sl;
-	
-	displayVector(sl.anagrams(vector<string>({"ant","ant","ant","",""})));
-
-
-	PAUSE;
-}
+//int main()
+//{
+//	Solution sl;
+//	
+//	displayVector(sl.anagrams(vector<string>({"ant","ant","ant","",""})));
+//
+//
+//	PAUSE;
+//}
