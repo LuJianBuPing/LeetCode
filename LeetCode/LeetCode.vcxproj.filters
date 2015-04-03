@@ -192,6 +192,21 @@
     <ClCompile Include="P054.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P056.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P055.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P057.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P058.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P059.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LeetCode.h">
