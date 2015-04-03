@@ -77,6 +77,10 @@
     <ClCompile Include="P014.cpp" />
     <ClCompile Include="P015.cpp" />
     <ClCompile Include="P016.cpp" />
+    <ClCompile Include="P052.cpp" />
+    <ClCompile Include="P053.cpp" />
+    <ClCompile Include="P054.cpp" />
+    <ClCompile Include="P056.cpp" />
     <ClCompile Include="P168.cpp" />
     <ClCompile Include="P017.cpp" />
     <ClCompile Include="P171.cpp" />
@@ -121,6 +125,8 @@
     <ClCompile Include="P007.cpp" />
     <ClCompile Include="P008.cpp" />
     <ClCompile Include="P009.cpp" />
+    <ClCompile Include="P051.cpp" />
+    <ClCompile Include="P055.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LeetCode.h" />

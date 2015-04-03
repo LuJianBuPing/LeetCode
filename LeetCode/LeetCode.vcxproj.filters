@@ -180,6 +180,18 @@
     <ClCompile Include="P050.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P051.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P052.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P053.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P054.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LeetCode.h">
