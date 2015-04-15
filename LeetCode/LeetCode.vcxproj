@@ -90,6 +90,19 @@
     <ClCompile Include="P064.cpp" />
     <ClCompile Include="P065.cpp" />
     <ClCompile Include="P066.cpp" />
+    <ClCompile Include="P067.cpp" />
+    <ClCompile Include="P068.cpp" />
+    <ClCompile Include="P069.cpp" />
+    <ClCompile Include="P070.cpp" />
+    <ClCompile Include="P071.cpp" />
+    <ClCompile Include="P072.cpp" />
+    <ClCompile Include="P073.cpp" />
+    <ClCompile Include="P074.cpp" />
+    <ClCompile Include="P075.cpp" />
+    <ClCompile Include="P076.cpp" />
+    <ClCompile Include="P077.cpp" />
+    <ClCompile Include="P078.cpp" />
+    <ClCompile Include="P079.cpp" />
     <ClCompile Include="P168.cpp" />
     <ClCompile Include="P017.cpp" />
     <ClCompile Include="P171.cpp" />
@@ -137,6 +150,7 @@
     <ClCompile Include="P051.cpp" />
     <ClCompile Include="P055.cpp" />
     <ClCompile Include="P060.cpp" />
+    <ClCompile Include="Tic_Tac_Toe.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LeetCode.h" />

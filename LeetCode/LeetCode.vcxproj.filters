@@ -228,6 +228,48 @@
     <ClCompile Include="P065.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P067.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P068.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P069.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tic_Tac_Toe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P070.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P071.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P072.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P073.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P074.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P075.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P076.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P077.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P078.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P079.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LeetCode.h">
