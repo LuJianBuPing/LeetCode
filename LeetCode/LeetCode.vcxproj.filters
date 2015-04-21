@@ -270,6 +270,69 @@
     <ClCompile Include="P079.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P080.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P082.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P081.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P083.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P084.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P085.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P086.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P087.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P088.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P089.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P090.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P091.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P092.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P093.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P094.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P096.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P095.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P097.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P098.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P099.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P100.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LeetCode.h">

@@ -12,6 +12,7 @@
 #include<unordered_set>
 #include<stack>
 #include<queue>
+#include<cstdint>
 
 #define PAUSE system("pause");
 
@@ -72,3 +73,10 @@ struct SListNode {
 SListNode* makeList(vector<int> data);
 
 void displayList(SListNode* head);
+
+struct TreeNode {
+	int val;
+	TreeNode *left;
+	TreeNode *right;
+	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+};

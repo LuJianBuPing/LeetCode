@@ -44,7 +44,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
@@ -103,6 +103,25 @@
     <ClCompile Include="P077.cpp" />
     <ClCompile Include="P078.cpp" />
     <ClCompile Include="P079.cpp" />
+    <ClCompile Include="P080.cpp" />
+    <ClCompile Include="P082.cpp" />
+    <ClCompile Include="P083.cpp" />
+    <ClCompile Include="P084.cpp" />
+    <ClCompile Include="P085.cpp" />
+    <ClCompile Include="P086.cpp" />
+    <ClCompile Include="P087.cpp" />
+    <ClCompile Include="P088.cpp" />
+    <ClCompile Include="P089.cpp" />
+    <ClCompile Include="P090.cpp" />
+    <ClCompile Include="P091.cpp" />
+    <ClCompile Include="P092.cpp" />
+    <ClCompile Include="P093.cpp" />
+    <ClCompile Include="P094.cpp" />
+    <ClCompile Include="P095.cpp" />
+    <ClCompile Include="P096.cpp" />
+    <ClCompile Include="P097.cpp" />
+    <ClCompile Include="P099.cpp" />
+    <ClCompile Include="P100.cpp" />
     <ClCompile Include="P168.cpp" />
     <ClCompile Include="P017.cpp" />
     <ClCompile Include="P171.cpp" />
@@ -150,6 +169,8 @@
     <ClCompile Include="P051.cpp" />
     <ClCompile Include="P055.cpp" />
     <ClCompile Include="P060.cpp" />
+    <ClCompile Include="P081.cpp" />
+    <ClCompile Include="P098.cpp" />
     <ClCompile Include="Tic_Tac_Toe.cpp" />
   </ItemGroup>
   <ItemGroup>

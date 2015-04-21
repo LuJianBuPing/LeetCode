@@ -15,7 +15,7 @@ public:
 				j = m;
 		}
 
-		cout << i << "," << j << endl;
+		//cout << i << "," << j << endl;
 
 		int k = lower_bound(A, A + i + 1, target) - A;
 		if (k <= i && A[k] == target) return k;

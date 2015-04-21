@@ -56,11 +56,11 @@ public:
 	}
 };
 
-int main()
-{
-	Solution sl;
-
-	cout << sl.minWindow("ab", "b") << endl;
-
-	PAUSE;
-}
+//int main()
+//{
+//	Solution sl;
+//
+//	cout << sl.minWindow("ab", "b") << endl;
+//
+//	PAUSE;
+//}

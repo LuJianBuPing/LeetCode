@@ -1,11 +1,11 @@
 #include "LeetCode.h"
 
+int dirx[4] = { -1, 0, 1, 0 };
+int diry[4] = { 0, -1, 0, 1 };
 class Solution {
 	int m;
 	int n;
 	string word;
-	int dirx[4] = { -1, 0, 1, 0 };
-	int diry[4] = { 0, -1, 0, 1 };
 public:
 	bool exist(vector<vector<char> > &board, string word) {
 		m = board.size();
@@ -15,7 +15,7 @@ public:
 		this->word = word;
 
 		vector<vector<bool>> used(board.size(),vector<bool>(board[0].size()));
-
+		
 		for (int i = 0; i < m; ++i)
 		{
 			for (int j = 0; j < n; ++j)
