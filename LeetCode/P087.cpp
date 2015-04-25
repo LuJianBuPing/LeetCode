@@ -60,7 +60,7 @@ public:
 			for (int j = 0; j < s.length() - i; ++j)
 			{
 				hash[i][j] = sum;
-				sum += s[i + j];
+				sum += s[i + j] * s[i + j];
 			}
 			hash[i][s.length() - i] = sum;
 		}

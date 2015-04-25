@@ -156,9 +156,6 @@
     <ClCompile Include="P042.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="p043.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="P044.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -331,6 +328,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="P100.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P043.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P101.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P102.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P103.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
