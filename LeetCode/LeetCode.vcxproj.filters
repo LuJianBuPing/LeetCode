@@ -13,14 +13,11 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\杂项">
+      <UniqueIdentifier>{a4c06e8e-d46f-4b1d-8c1f-c41463b45c68}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="heapsort.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="cash.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="P168.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -234,9 +231,6 @@
     <ClCompile Include="P069.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Tic_Tac_Toe.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="P070.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -340,6 +334,72 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="P103.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_CNF_SAT_Probabilistic.c">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="boolSat.cpp">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="cash.c">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="heap_dijsktra.c">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="Tic_Tac_Toe.cpp">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="P104.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P105.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P106.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P107.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P108.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P109.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P110.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P111.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P112.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P113.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P114.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P115.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P116.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P117.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P118.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P119.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P120.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

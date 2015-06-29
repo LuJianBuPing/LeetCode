@@ -66,8 +66,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3_CNF_SAT_Probabilistic.c" />
+    <ClCompile Include="boolSat.cpp" />
     <ClCompile Include="cash.c" />
-    <ClCompile Include="heapsort.c" />
+    <ClCompile Include="heap_dijsktra.c" />
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="P001.cpp" />
     <ClCompile Include="P010.cpp" />
@@ -125,6 +127,23 @@
     <ClCompile Include="P101.cpp" />
     <ClCompile Include="P102.cpp" />
     <ClCompile Include="P103.cpp" />
+    <ClCompile Include="P104.cpp" />
+    <ClCompile Include="P105.cpp" />
+    <ClCompile Include="P106.cpp" />
+    <ClCompile Include="P107.cpp" />
+    <ClCompile Include="P108.cpp" />
+    <ClCompile Include="P109.cpp" />
+    <ClCompile Include="P110.cpp" />
+    <ClCompile Include="P111.cpp" />
+    <ClCompile Include="P112.cpp" />
+    <ClCompile Include="P113.cpp" />
+    <ClCompile Include="P114.cpp" />
+    <ClCompile Include="P115.cpp" />
+    <ClCompile Include="P116.cpp" />
+    <ClCompile Include="P117.cpp" />
+    <ClCompile Include="P118.cpp" />
+    <ClCompile Include="P119.cpp" />
+    <ClCompile Include="P120.cpp" />
     <ClCompile Include="P168.cpp" />
     <ClCompile Include="P017.cpp" />
     <ClCompile Include="P171.cpp" />
