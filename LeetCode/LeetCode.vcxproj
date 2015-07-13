@@ -66,6 +66,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="P127.cpp" />
     <ClCompile Include="3_CNF_SAT_Probabilistic.c" />
     <ClCompile Include="boolSat.cpp" />
     <ClCompile Include="cash.c" />
@@ -144,6 +145,33 @@
     <ClCompile Include="P118.cpp" />
     <ClCompile Include="P119.cpp" />
     <ClCompile Include="P120.cpp" />
+    <ClCompile Include="P121.cpp" />
+    <ClCompile Include="P122.cpp" />
+    <ClCompile Include="P123.cpp" />
+    <ClCompile Include="P124.cpp" />
+    <ClCompile Include="P125.cpp" />
+    <ClCompile Include="P126.cpp" />
+    <ClCompile Include="P128.cpp" />
+    <ClCompile Include="P129.cpp" />
+    <ClCompile Include="P130.cpp" />
+    <ClCompile Include="P131.cpp" />
+    <ClCompile Include="P132.cpp" />
+    <ClCompile Include="P133.cpp" />
+    <ClCompile Include="P134.cpp" />
+    <ClCompile Include="P135.cpp" />
+    <ClCompile Include="P136.cpp" />
+    <ClCompile Include="P137.cpp" />
+    <ClCompile Include="P138.cpp" />
+    <ClCompile Include="P139.cpp" />
+    <ClCompile Include="P140.cpp" />
+    <ClCompile Include="P141.cpp" />
+    <ClCompile Include="P142.cpp" />
+    <ClCompile Include="P143.cpp" />
+    <ClCompile Include="P144.cpp" />
+    <ClCompile Include="P145.cpp" />
+    <ClCompile Include="P146.cpp" />
+    <ClCompile Include="P147.cpp" />
+    <ClCompile Include="P148.cpp" />
     <ClCompile Include="P168.cpp" />
     <ClCompile Include="P017.cpp" />
     <ClCompile Include="P171.cpp" />

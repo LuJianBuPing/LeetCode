@@ -1,6 +1,6 @@
 #include "LeetCode.h"
 
-typedef SListNode ListNode;
+
 
 class Solution {
 public:

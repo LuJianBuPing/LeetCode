@@ -24,13 +24,13 @@ public:
 	}
 };
 
-
-int main()
-{
-
-	Solution sl;
-
-	cout << sl.numDistinct("bbb", "bb") << endl;
-	system("pause");
-	return 0;
-}
+//
+//int main()
+//{
+//
+//	Solution sl;
+//
+//	cout << sl.numDistinct("bbb", "bb") << endl;
+//	system("pause");
+//	return 0;
+//}

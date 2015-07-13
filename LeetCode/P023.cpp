@@ -1,13 +1,6 @@
 #include"LeetCode.h"
 
 
-//Definition for singly-linked list.
-struct ListNode {
-    int val;
-    ListNode *next;
-    ListNode(int x) : val(x), next(NULL) {}
-};
-
 struct ListNodeCmp{
 	bool operator()(ListNode* a, ListNode* b)
 	{

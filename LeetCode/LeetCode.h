@@ -5,6 +5,7 @@
 #include<vector>
 #include<list>
 #include<algorithm>
+#include<functional>
 #include<numeric>
 #include<map>
 #include<unordered_map>
@@ -64,15 +65,15 @@ void displayArray(T A, int n)
 }
 
 
-struct SListNode {
+struct ListNode {
 	int val;
-	SListNode *next;
-	SListNode(int x) : val(x), next(NULL) {}
+	ListNode *next;
+	ListNode(int x) : val(x), next(NULL) {}
 };
 
-SListNode* makeList(vector<int> data);
+ListNode* makeList(vector<int> data);
 
-void displayList(SListNode* head);
+void displayList(ListNode* head);
 
 struct TreeNode {
 	int val;

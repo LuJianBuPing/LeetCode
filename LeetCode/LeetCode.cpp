@@ -1,15 +1,15 @@
 #include"LeetCode.h"
 
-SListNode* makeList(vector<int> data)
+ListNode* makeList(vector<int> data)
 {
-	SListNode * head = NULL;
+	ListNode * head = NULL;
 	for (int i = data.size() - 1; i >= 0; --i)
 	{
 		if (head == NULL)
-			head = new SListNode(data[i]);
+			head = new ListNode(data[i]);
 		else
 		{
-			auto p = new SListNode(data[i]);
+			auto p = new ListNode(data[i]);
 			p->next = head;
 			head = p;
 		}
@@ -17,7 +17,7 @@ SListNode* makeList(vector<int> data)
 	return head;
 }
 
-void displayList(SListNode* head)
+void displayList(ListNode* head)
 {
 	cout << "[ ";
 	auto p = head;
